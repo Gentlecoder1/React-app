@@ -12,7 +12,7 @@ import Foodimg9 from './assets/image-waffle-desktop.jpg'
 const Food = ({ onOrderClick }) => {
 
     return(
-        <div className="hero bg-[#8a8aeb] border-2 rounded-2xl md:m-10 m-4 h-auto md:p-14 p-10 justify-center items-center">
+        <div className="hero bg-[#8a8aeb] border-2 rounded-2xl md:m-10 m-4 h-auto md:p-14 p-7 justify-center items-center">
             <h2 className="text-2xl font-bold mb-3">Food we serve</h2>
             <div className='md:p-4 p-2 flex md:gap-7 gap-5 flex-wrap'>
                 <Card name="Baklava" image={Foodimg} onOrderClick={onOrderClick}/>
