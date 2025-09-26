@@ -1,4 +1,4 @@
-const Food = () => {
+const Footer = () => {
 
     return(
         
@@ -18,4 +18,4 @@ const Food = () => {
         </>
     );
 }
-export default Food
+export default Footer
