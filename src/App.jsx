@@ -1,8 +1,8 @@
 import { useState } from "react";
 
-import Header from "./header.jsx";
+import Header from "./Header.jsx";
 import Food from "./Food.jsx";
-import Footer from "./footer.jsx";
+import Footer from "./Footer.jsx";
 import Order from "./Order.jsx";
 
 
