@@ -8,9 +8,9 @@ const Footer = () => {
                 <div className="">
                     <p className="md:text-xl text-md">Follow us on our social platform</p>
                     <ul className="flex gap-4">
-                        <li className="font-bold hover hover:text-blue-900"><a href="#"><b><i>F</i></b> facebook</a></li>
-                        <li className="font-bold hover hover:text-blue-900"><a href="#"><b><i>x</i></b> twitter</a></li>
-                        <li className="font-bold hover hover:text-blue-900"><a href="#"><b><i>I</i></b> Instagram</a></li>
+                        <li className="font-bold hover hover:text-blue-900 text-center"><a href="#"><b><i>F</i></b> facebook</a></li>
+                        <li className="font-bold hover hover:text-blue-900 text-center"><a href="#"><b><i>x</i></b> twitter</a></li>
+                        <li className="font-bold hover hover:text-blue-900 text-center"><a href="#"><b><i>I</i></b> Instagram</a></li>
                     </ul>
                 </div>
                 <p>&copy; {new Date().getFullYear()} copyright</p>
